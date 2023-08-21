@@ -1,8 +1,17 @@
 {
-  "name": "laravel/laravel",
-  "type": "project",
-  "description": "The Laravel Framework.",
-  "require": {
-    "php": "^8.0"
-  }
+    "name": "maxim-bazlov/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MaximBazlov\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MaximBazlov"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
 }
