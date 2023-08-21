@@ -6,10 +6,10 @@
 
 - PHP 8.0
 
-## Установка 
+## Установка
 
 ```bash
-$ composer require 
+$ composer require maxim-bazlov/otus-composer-package
 ```
 
 ## Использование
