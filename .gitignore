@@ -4,3 +4,4 @@
 docker/db
 
 composer.lock
+/vendor/
